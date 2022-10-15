@@ -2,3 +2,6 @@ universty
 class
 home
 new
+lecture
+exam
+lab
